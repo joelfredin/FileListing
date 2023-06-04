@@ -1,0 +1,9 @@
+# C++ compiled files
+*.o
+*.out
+
+# CMake build directory
+build/
+
+# Generated files
+cmake-build-debug/
